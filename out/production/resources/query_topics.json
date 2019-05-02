@@ -1,0 +1,28 @@
+{
+  "query_to_topics": [
+    {
+      "query": "protests",
+      "topic": "protests/riots"
+    },
+    {
+      "query": "riots",
+      "topic": "protests/riots"
+    },
+    {
+      "query": "demonstrations",
+      "topic": "protests/riots"
+    },
+    {
+      "query": "workers clash",
+      "topic": "protests/riots"
+    },
+    {
+      "query": "mob violence",
+      "topic": "protests/riots"
+    },
+    {
+      "query": "abduction",
+      "topic": "violence against humanity"
+    }
+  ]
+}
